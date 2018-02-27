@@ -1,0 +1,17 @@
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job_Management_System.frmChangePassword.resources
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job_Management_System.frmLogin.resources
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job_Management_System.frmLogs.resources
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job_Management_System.frmMainMenu.resources
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job_Management_System.frmRegistration.resources
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job_Management_System.frmSplash.resources
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job_Management_System.Resources.resources
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job Management System.vbproj.GenerateResource.Cache
+C:\Users\raj20\Desktop\Job Management System\Job Management System\bin\Debug\Job Management System.exe
+C:\Users\raj20\Desktop\Job Management System\Job Management System\bin\Debug\Job Management System.pdb
+C:\Users\raj20\Desktop\Job Management System\Job Management System\bin\Debug\Job Management System.xml
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job_Management_System.frmActivation.resources
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job_Management_System.frmSystemInfo.resources
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job Management System.exe
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job Management System.xml
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job Management System.pdb
+C:\Users\raj20\Desktop\Job Management System\Job Management System\obj\x86\Debug\Job Management System.vbprojResolveAssemblyReference.cache

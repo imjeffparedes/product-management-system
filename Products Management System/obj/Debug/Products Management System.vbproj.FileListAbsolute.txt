@@ -1,0 +1,61 @@
+D:\Products Management System\Products Management System\bin\Debug\Products Management System.exe
+D:\Products Management System\Products Management System\bin\Debug\Products Management System.pdb
+D:\Products Management System\Products Management System\bin\Debug\Products Management System.xml
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmDepartment.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmAbout.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmActivation.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmCategory.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmChangePassword.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmLogin.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmLogs.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmMainMenu.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmProduct.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmProductRecord.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmRegistration.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmSplash.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmSubCategory.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmSystemInfo.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.Resources.resources
+D:\Products Management System\Products Management System\obj\Debug\Products Management System.vbproj.GenerateResource.Cache
+D:\Products Management System\Products Management System\obj\Debug\Products Management System.exe
+D:\Products Management System\Products Management System\obj\Debug\Products Management System.xml
+D:\Products Management System\Products Management System\obj\Debug\Products Management System.pdb
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmProductReport.resources
+D:\Products Management System\Products Management System\bin\Debug\Products Management System.exe.config
+D:\Products Management System\Products Management System\obj\Debug\Products Management System.vbprojResolveAssemblyReference.cache
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmReport.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmCompany.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmPurchase.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmPurchaseRecord.resources
+D:\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmPurchaseReport.resources
+E:\Projects\Products Management System\Products Management System\bin\Debug\Products Management System.exe.config
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products Management System.exe
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products Management System.xml
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products Management System.pdb
+E:\Projects\Products Management System\Products Management System\bin\Debug\Products Management System.exe
+E:\Projects\Products Management System\Products Management System\bin\Debug\Products Management System.pdb
+E:\Projects\Products Management System\Products Management System\bin\Debug\Products Management System.xml
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products Management System.vbprojResolveAssemblyReference.cache
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmPurchaseReport1.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmPurchaseReport.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmCompany.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmProductReport.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmDepartment.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmAbout.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmActivation.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmCategory.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmChangePassword.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmLogin.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmLogs.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmMainMenu.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmProduct.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmProductRecord.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmRegistration.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmReport.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmSplash.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmPurchase.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmPurchaseRecord.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmSubCategory.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.frmSystemInfo.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products_Management_System.Resources.resources
+E:\Projects\Products Management System\Products Management System\obj\Debug\Products Management System.vbproj.GenerateResource.Cache
